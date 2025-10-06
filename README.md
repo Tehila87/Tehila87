@@ -10,12 +10,15 @@
   Python • SQL • R • SAS • Tableau | LSE Data Analytics Graduate
 </p>
 <p align="center">
-  Solving complex problems with advanced analytics & modelling, robust methodologies, insightful visuals, and decision-ready recommendations. 
+  Solving complex problems with advanced analytics, robust methodologies, and impactful recommendations. 
 </p>
 <p align="center">
   <a href="mailto:sharabitehila@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/tehilasharabi/">LinkedIn</a> •
   <a href="https://github.com/Tehila87?tab=repositories">Repos</a>
+</p>
+<p align="center">
+<strong> Open to roles in London (visa sponsorship welcome)</strong>
 </p>
 
 ### Profile
