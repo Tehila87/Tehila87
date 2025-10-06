@@ -8,6 +8,8 @@
 <h2 align="center">Tehila Sharabi — Data Analyst & Researcher</h2>
 <p align="center">
   Python • SQL • R • SAS • Tableau | LSE Data Analytics Graduate
+</p>
+<p align="center">
   Solving complex problems with advanced analytics & modelling, robust methodologies, insightful visuals, and decision-ready recommendations. 
 </p>
 <p align="center">
