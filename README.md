@@ -25,30 +25,26 @@
 ### ⭐ Portfolio highlights
 - **Stock Prices Prediction Pipeline** — event-aware features; Ridge/XGBoost; LOEO & walk-forward validation; sample data for a quick run.  
   ➜ **Repo:** https://github.com/Tehila87/stock-prices-prediction-pipeline
-<details>
   <summary><strong> Modeling pipeline diagram </strong></summary>
   <p align="center">
   <a href="https://github.com/Tehila87/stock-prices-prediction-pipeline">
     <img src="assets/pipeline-overview.png" alt="Predictive modelling pipeline: pre-modelling, WFCV & LOEO" width="820">
   </a>
 </p>
-  <summary><strong>What this shows: </strong></summary>
-  • Feature de-meaning/standardisation, event-aware engineering, stability/top-k selection<br>
-  • Two paths: Walk-Forward CV (year-round) and LOEO (around-earnings) with Ridge/XGBoost<br>
-  • Emphasis on reproducible pipelines and evaluation design
-</details>
+  <summary><strong>*What this shows:* </strong></summary>
+  • *Feature de-meaning/standardisation, event-aware engineering, stability/top-k selection*<br>
+  • *Two paths: Walk-Forward CV (year-round) and LOEO (around-earnings) with Ridge/XGBoost*<br>
+  • *Emphasis on reproducible pipelines and evaluation design*
 
 - **NHS Missed Appointments** — descriptive analytics of drivers & actions (report + deck). *(link coming)*
-<details>
   <summary><strong> Missed Appointments at the NHS - Recommendations </strong></summary>  
   <p align="center">
   <img src="assets/NHS_recommendations.png" alt="NHS missed appointments: trends, shocks, and data-driven recommendations" width="820">
 </p>
-  <summary><strong>What this shows: </strong></summary>
-  • Time-series exploration with annotated shocks (lockdowns/Omicron)<br>
-  • Root-cause reasoning → actionable recommendations (capacity, prevention, telehealth, agility)<br>
-  • Evidence storytelling & stakeholder-ready communication
-</details>
+  <summary><strong>*What this shows:* </strong></summary>
+  • *Time-series exploration with annotated shocks (lockdowns/Omicron)*<br>
+  • *Root-cause reasoning → actionable recommendations (capacity, prevention, telehealth, agility)*<br>
+  • *Evidence storytelling & stakeholder-ready communication*
 
 - **Customer Loyalty (R & Python)** — MLR + decision tree; segment performance & fairness checks. *(link coming)*
 
