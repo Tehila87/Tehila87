@@ -7,7 +7,7 @@
 <!-- Hero -->
 <h1 align="center">Tehila Sharabi — Data Analyst & Researcher</h1>
 <p align="center">
-  Solving real business problems with advanced analytics & modelling, clear visuals, and stakeholder-ready insights.
+  Solving complex problems with advanced analytics & modelling, robust methodologies, insightful visuals, and decision-ready recommendations. 
 </p>
 <p align="center">
   <a href="mailto:sharabitehila@gmail.com">Email</a> •
@@ -15,11 +15,8 @@
   <a href="https://github.com/Tehila87?tab=repositories">Repos</a>
 </p>
 
-### Experience snapshots
-- Researcher & Policy Advocate (independent think tank) | Data Analyst (Central Bureau of Statistics) | Parliamentary Advisor (Knesset)
-
 ### Profile
-Creative, collaborative, and impact-driven analyst with 6 years’ experience across academia, non-profit, and public sectors. Skilled in advanced quantitative methods and decision-support for stakeholders. Track record includes initiating 10 parliamentary debates and 10+ committee appearances as a think-tank advocate. Currently deepening expertise in data governance, ethical AI, risk-aware modelling, and scalable analytics pipelines.
+##### Creative, collaborative, and impact-driven analyst with 6 years’ experience across academia, non-profit, and public sectors. Skilled in advanced quantitative methods and decision-support for stakeholders. Track record includes initiating 10 parliamentary debates and 10+ committee appearances as a think-tank advocate. Currently deepening expertise in data governance, ethical AI, risk-aware modelling, and scalable analytics pipelines.
 ---
 
 ### 🗂 Portfolio highlights
@@ -45,6 +42,9 @@ Creative, collaborative, and impact-driven analyst with 6 years’ experience ac
 ### Education
 - **LSE** — Data Analytics Career Accelerator (certificate)  
 - **TAU** — B.A. Sociology & Gender (minor in Law), distinction
+
+### Experience snapshots
+- Researcher & Policy Advocate (independent think tank) | Data Analyst (Central Bureau of Statistics) | Parliamentary Advisor (Knesset)
 
 ---
 
