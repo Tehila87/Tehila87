@@ -43,8 +43,8 @@ Creative, collaborative, and impact-driven analyst with 6 years’ experience ac
 - **Reflective mindset:** committed to continuous improvement
 
 ### Education
-- LSE — Data Analytics Career Accelerator (certificate)  
-- Tel-Aviv University — B.A. Sociology & Gender (minor in Law), distinction
+- **LSE** — Data Analytics Career Accelerator (certificate)  
+- **TAU** — B.A. Sociology & Gender (minor in Law), distinction
 
 ---
 
