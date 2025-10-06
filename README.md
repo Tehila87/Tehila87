@@ -28,6 +28,30 @@
 - **NHS Missed Appointments** — descriptive analytics of drivers & actions (report + deck). *(link coming)*
 - **Customer Loyalty (R & Python)** — MLR + decision tree; segment performance & fairness checks. *(link coming)*
 
+<!-- Portfolio visuals (compact, clickable) -->
+<p align="center">
+  <a href="https://github.com/Tehila87/stock-prices-prediction-pipeline">
+    <img src="assets/pipeline-overview.jpg" alt="Predictive modelling pipeline: pre-modelling, WFCV & LOEO" width="820">
+  </a>
+</p>
+<details>
+  <summary><strong>What this shows (30s)</strong></summary>
+  • Feature de-meaning/standardisation, event-aware engineering, stability/top-k selection<br>
+  • Two paths: Walk-Forward CV (year-round) and LOEO (around-earnings) with Ridge/XGBoost<br>
+  • Emphasis on reproducible pipelines and evaluation design
+</details>
+
+<p align="center">
+  <img src="assets/NHS_recommendations.jpg" alt="NHS missed appointments: trends, shocks, and data-driven recommendations" width="820">
+</p>
+<details>
+  <summary><strong>What this shows (30s)</strong></summary>
+  • Time-series exploration with annotated shocks (lockdowns/Omicron)<br>
+  • Root-cause reasoning → actionable recommendations (capacity, prevention, telehealth, agility)<br>
+  • Evidence storytelling & stakeholder-ready communication
+</details>
+
+
 ### 🔭 In progress / exploration
 - **Graduate Outcomes (UK)** — employability & professional growth using GOS (work in progress).
 - **Demand Forecasting** — event-aware demand forecasting of LEGO representation-linked sets (work in progress).
