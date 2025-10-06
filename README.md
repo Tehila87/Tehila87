@@ -31,7 +31,7 @@
 <!-- Portfolio visuals (compact, clickable) -->
 <p align="center">
   <a href="https://github.com/Tehila87/stock-prices-prediction-pipeline">
-    <img src="assets/pipeline-overview.jpg" alt="Predictive modelling pipeline: pre-modelling, WFCV & LOEO" width="820">
+    <img src="assets/pipeline-overview.png" alt="Predictive modelling pipeline: pre-modelling, WFCV & LOEO" width="820">
   </a>
 </p>
 <details>
@@ -42,7 +42,7 @@
 </details>
 
 <p align="center">
-  <img src="assets/NHS_recommendations.jpg" alt="NHS missed appointments: trends, shocks, and data-driven recommendations" width="820">
+  <img src="assets/NHS_recommendations.png" alt="NHS missed appointments: trends, shocks, and data-driven recommendations" width="820">
 </p>
 <details>
   <summary><strong>What this shows (30s)</strong></summary>
