@@ -19,10 +19,10 @@
 </p>
 
 ### Profile
-##### Creative, collaborative, and impact-driven analyst with 6 years’ experience across academia, non-profit, and public sectors. Skilled in advanced quantitative methods and decision-support for stakeholders. Track record includes initiating 10 parliamentary debates and 10+ committee appearances as a think-tank advocate. Currently deepening expertise in data governance, ethical AI, risk-aware modelling, and scalable analytics pipelines.
+#### Creative, collaborative, and impact-driven analyst with 6 years’ experience across academia, non-profit, and public sectors. Skilled in advanced quantitative methods and decision-support for stakeholders. Track record includes initiating 10 parliamentary debates and 10+ committee appearances as a think-tank advocate. Currently deepening expertise in data governance, ethical AI, risk-aware modelling, and scalable analytics pipelines.
 ---
 
-### 🗂 Portfolio highlights
+### ⭐ Portfolio highlights
 - **Stock Prices Prediction Pipeline** — event-aware features; Ridge/XGBoost; LOEO & walk-forward validation; sample data for a quick run.  
   ➜ **Repo:** https://github.com/Tehila87/stock-prices-prediction-pipeline
 - **NHS Missed Appointments** — descriptive analytics of drivers & actions (report + deck). *(link coming)*
@@ -34,7 +34,7 @@
 
 ---
 
-### Skills
+### 🛠️ Skills
 - **Technical:** Python, SQL, R, SAS, scikit-learn, XGBoost, pandas, matplotlib, Tableau  
 - **Upskilling:** ML, forecasting & reproducible pipelines  
 - **Research:** strong quantitative and qualitative methods  
@@ -42,13 +42,13 @@
 - **Teamwork:** contributes innovative ideas, drives forward-thinking initiatives, supports ambitious teammates  
 - **Reflective mindset:** committed to continuous improvement
 
-### Education
+### 🎓 Education
 - **LSE** — Data Analytics Career Accelerator (certificate)  
 - **TAU** — B.A. Sociology & Gender (minor in Law), distinction
 
-### Experience snapshots
+### 💼 Experience snapshots
 - Researcher & Policy Advocate (independent think tank) | Data Analyst (Central Bureau of Statistics) | Parliamentary Advisor (Knesset)
 
 ---
 
-<sub>Planning relocation to London; open to conversations and collaborations around survey-based analytics, advanced predictive modelling, and demand forecasting.</sub>
+<sub> Planning relocation to London; open to conversations and collaborations around survey-based analytics, advanced predictive modelling, and demand forecasting.</sub>
