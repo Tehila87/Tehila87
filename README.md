@@ -29,12 +29,14 @@
 - **Customer Loyalty (R & Python)** — MLR + decision tree; segment performance & fairness checks. *(link coming)*
 
 <!-- Portfolio visuals (compact, clickable) -->
-<p align="center">
+
+<details>
+  <summary><strong> Modeling pipeline diagram </strong></summary>
+  <p align="center">
   <a href="https://github.com/Tehila87/stock-prices-prediction-pipeline">
     <img src="assets/pipeline-overview.png" alt="Predictive modelling pipeline: pre-modelling, WFCV & LOEO" width="820">
   </a>
 </p>
-<details>
   <summary><strong>What this shows (30s)</strong></summary>
   • Feature de-meaning/standardisation, event-aware engineering, stability/top-k selection<br>
   • Two paths: Walk-Forward CV (year-round) and LOEO (around-earnings) with Ridge/XGBoost<br>
