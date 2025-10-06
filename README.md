@@ -19,7 +19,7 @@
 </p>
 
 ### Profile
-#### Creative, collaborative, and impact-driven analyst with 6 years’ experience across academia, non-profit, and public sectors. Skilled in advanced quantitative methods and decision-support for stakeholders. Track record includes initiating 10 parliamentary debates and 10+ committee appearances as a think-tank advocate. Currently deepening expertise in data governance, ethical AI, risk-aware modelling, and scalable analytics pipelines.
+#### Creative, collaborative, and impact-driven analyst with 6 years’ experience across academia, NGO's, and the public sector. Skilled in advanced quantitative methods and decision-support for stakeholders. Track record includes initiating 10 parliamentary debates and 10+ committee appearances as a think-tank advocate. Currently deepening expertise in data governance, ethical AI, risk-aware modelling, and scalable analytics pipelines.
 ---
 
 ### ⭐ Portfolio highlights
