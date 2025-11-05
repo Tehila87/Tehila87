@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="assets/banner-1200x300.jpg"
-       alt="Turning data into dialogue. And dialogue into strategy — Tehila Sharabi"
-       width="100%">
-</p>
-
 <!-- Hero -->
 <h2 align="center">Tehila Sharabi — Data Analyst & Researcher</h2>
 <p align="center">
