@@ -70,7 +70,7 @@
 ### 💼 Experience snapshots
 - Researcher & Policy Advocate (independent think tank) | Data Analyst (Central Bureau of Statistics) | Parliamentary Advisor (Israeli Parliament)
   <p align="center">
-  <a href="https://github.com/Tehila87/stock-prices-prediction-pipeline">
+  <a href="https://github.com/Tehila87/">
     <img src="assets/work_experience.png" alt="work_experience_logo_illustrations" width="820">
   </a>
 </p>
