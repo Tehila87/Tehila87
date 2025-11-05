@@ -22,7 +22,7 @@
 </p>
 
 ### Profile
-#### Creative, collaborative, and impact-driven analyst with 6 years’ experience across academia, NGO's, and the public sector. Skilled in advanced quantitative methods and decision-support for stakeholders. Track record includes initiating 10 parliamentary debates and 10+ committee appearances as a think-tank advocate. Currently deepening expertise in data governance, ethical AI, risk-aware modelling, and scalable analytics pipelines.
+#### Creative, rigorous and impact-driven data analyst with 6 years’ experience across higher education, the public sector and research organisations. Skilled in analysing large-scale survey and administrative datasets, sourcing financial and macro-economic data (scraping, APIs), and building statistical and machine-learning pipelines (regression, classification, clustering, XGBoost). Proficient in Python, SQL, R, SAS and Tableau. Prioritises robust methodologies, data quality, clear documentation and reproducible workflows. Recent LSE Data Analytics graduate (Distinction). Brings strong transferable skills, including cross-sector partnership building, rich stakeholder engagement, and work in fast-changing, high-stakes environments (including initiating ~10 parliamentary debates and 10+ committee presentations as a think-tank advocate and researcher). Passionate about bridging data science and action.
 ---
 
 ### ⭐ Portfolio highlights
@@ -56,12 +56,9 @@
 3. **Customer Loyalty (R & Python)** — MLR + decision tree; segment performance & fairness checks. *(link coming)*
 
 
-
-
-
 ### 🔭 In progress / exploration
 - **Graduate Outcomes (UK)** — employability & professional growth using GOS (work in progress). 
-
+- **UK Visa-Sponsor Jobs for Data Talent** — daily scrape
 ---
 
 ### 🛠️ Skills
@@ -73,11 +70,11 @@
 - **Reflective mindset:** committed to continuous improvement
 
 ### 🎓 Education
-- **LSE** — Data Analytics Career Accelerator (certificate)  
-- **TAU** — B.A. Sociology & Gender (minor in Law), distinction
+- **LSE** — Data Analytics Career Accelerator (Distinction)  
+- **TAU** — B.A. Sociology & Gender - minor in Law (Magna cum laude)
 
 ### 💼 Experience snapshots
-- Researcher & Policy Advocate (independent think tank) | Data Analyst (Central Bureau of Statistics) | Parliamentary Advisor (Knesset)
+- Researcher & Policy Advocate (independent think tank) | Data Analyst (Central Bureau of Statistics) | Parliamentary Advisor (Israeli Parliament)
 
 ---
 
