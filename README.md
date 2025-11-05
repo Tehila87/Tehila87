@@ -61,7 +61,6 @@
 
 ### 🔭 In progress / exploration
 - **Graduate Outcomes (UK)** — employability & professional growth using GOS (work in progress). 
-- **Demand Forecasting** — event-aware demand forecasting of LEGO representation-linked sets (work in progress).
 
 ---
 
