@@ -21,8 +21,8 @@
 
 ### ⭐ Data science skills demonstrated via selected project excerpts
 
-## 🔧 1. Predictive & ML Pipelines
-Event-aware, reproducible modelling for business use.
+## 🔧 1. Forecasting & ML Pipelines:
+Building reproducible modelling pipelines for prediction and evaluation.
 - **Stock Prices Prediction Pipeline** — event-aware features; Ridge/XGBoost; LOEO & walk-forward validation; 
   ➜ **Repo:** https://github.com/Tehila87/stock-prices-prediction-pipeline
 - **Customer Loyalty (R & Python)** — MLR + tree model to identify under-rewarded customers and size the bonus pool; segment performance & fairness checks. *(link coming)*
@@ -42,7 +42,7 @@ Event-aware, reproducible modelling for business use.
 
 ---
 ## 🧭 2. Deployment & Actionable Analytics
-From predictive insights to business strategies
+Translating model insights into quantified and cost-efficient business strategies.
 
 - **Targeting under-rewarded customers** — used model outputs to quantify the gap (≈51% of sample) and calculate a bonus pool (346,100 loyalty points).
   <p align="center">
@@ -51,15 +51,19 @@ From predictive insights to business strategies
 </p>
 
 ---
-## 📈 3. BI / Dashboards / Stakeholder Reporting / Strategic Recommendations
-KPIs, narrative-ready outputs, and decision support.
+## 📈 3. Dashboard Design & Data Visualization 
+Turning KPIs into interactive insights tailored to stakeholder needs.
 
 - **Customer Success Tableau dashboard** — tracks key Customer Success KPIs (MRR, NRR, upsell/expansion, renewal, new ARR, logo churn, CLV, ARPA) with segment filters and a built-in insights/recommendations panel for decisions.
   <p align="center">
     <img src="assets/customer_success_dashboard.png" alt="Customer Success Dashboard" width="720" />
 </p>
 
-- **Graduate Outcomes dashboard design (GOS sample data)** — built to present key Graduate Outcomes metrics (diversity, unemployment, YoY trends, ethnic/gender differences) through clear visuals and takeaways for decision-makers. *(available on request)* 
+- **Graduate Outcomes dashboard design (GOS sample data)** — built to present key Graduate Outcomes metrics (diversity, unemployment, YoY trends, ethnic/gender differences) through clear visuals and takeaways for decision-makers. *(available on request)*
+
+---
+## 🎯 4. Strategic Recommendations: 
+Bridging data science and action by delivering alternative short- and long-term solutions.
 
 - **NHS Missed Appointments** — descriptive analytics of drivers & actions (report + deck). *(link coming)*
   <p align="center">
@@ -73,25 +77,34 @@ KPIs, narrative-ready outputs, and decision support.
 </small>
 </p>
 
-## 🏛 4. Public Policy & Inequality Analytics (Past Career)
-Statistical work that fed into public / parliamentary conversations.
+---
+## 🎓 5. Official Statistics & Higher-Education Analytics: 
+Analyzing complex administrative datasets to support evidence-based, equality-focused decisions.
 
 - **Graduate Outcomes** — linking students to tax records; earnings by field of study and gender.
   <p align="center">
    <img src="assets/Graduates_outcomes_by_gender.png" alt="Survey analytics for inequality" width="720" />
 </p>
 
+---
+## 🏛 6. Survey Analytics for Inequality Studies
+Applying quantitative approaches that inform evidence-based policy and reform design
+
 - **Gender inequality in housing** — survey analytics; findings informed public and parliamentary debates on housing security and gender-responsive housing assistance policies
  <p align="center">
    <img src="assets/housing_survey_analytics.png" alt="Survey analytics for inequality" width="720" />
 </p>
 
-## 🧪 5. Research Scoping & Design
+---
+## 🧩 7. Problem Framing & Research Design
 - **LSE Coursework** — problem-framing diagrams, changing contexts (e.g. NHS project).
   <p align="center">
    <img src="assets/NHS_fishbone_diagram.png" alt="Survey analytics for inequality" width="720" />
 </p>
 
+---
+## 🧾 8. Commitment to Data Quality & Documentation of Risks and Limitations
+Ensuring data quality and verifying data accuracy through structured methods and best practices, including cross-validation; acknowledging and documenting risks and limitations; and applying critical thinking to identify data gaps or missing categories that may affect data integrity and interpretation.
 
 ---
 
