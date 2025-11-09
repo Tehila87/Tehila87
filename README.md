@@ -119,6 +119,6 @@ Statistical work that fed into public / parliamentary conversations.
   <p align="center">
    <img src="assets/experience.png" alt="Survey analytics for inequality" width="720" />
 </p>
----
 
+---
 <sub> Planning relocation to London; open to conversations and collaborations around survey-based analytics, advanced predictive modelling, and demand forecasting.</sub>
