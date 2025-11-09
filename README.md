@@ -40,6 +40,7 @@ Event-aware, reproducible modelling for business use.
 </small>
 </p>
 
+---
 ## 🧭 2. Deployment & Actionable Analytics
 From predictive insights to business strategies
 
@@ -54,12 +55,13 @@ From predictive insights to business strategies
 KPIs, narrative-ready outputs, and decision support.
 
 - **Customer Success Tableau dashboard** — tracks key Customer Success KPIs (MRR, NRR, upsell/expansion, renewal, new ARR, logo churn, CLV, ARPA) with segment filters and a built-in insights/recommendations panel for decisions.
-
-<img src="assets/customer_success_dashboard.png" alt="Customer Success Dashboard" width="720" />
+  <p align="center">
+    <img src="assets/customer_success_dashboard.png" alt="Customer Success Dashboard" width="720" />
+</p>
 
 - **Graduate Outcomes dashboard design** — built to present key Graduate Outcomes metrics (diversity, unemployment, YoY trends, ethnic/gender differences) through clear visuals and takeaways for decision-makers. *(available on request)*
 
-**NHS Missed Appointments** — descriptive analytics of drivers & actions (report + deck). *(link coming)*
+- **NHS Missed Appointments** — descriptive analytics of drivers & actions (report + deck). *(link coming)*
   <p align="center">
   <img src="assets/NHS_recommendations.png" alt="NHS missed appointments: trends, shocks, and data-driven recommendations" width="820">
 </p>
@@ -75,18 +77,25 @@ KPIs, narrative-ready outputs, and decision support.
 Statistical work that fed into public / parliamentary conversations.
 
 - **Graduate Outcomes** — linking students to tax records; earnings by field of study and gender.
-<img src="assets/Graduates_outcomes_by_gender.png" alt="Survey analytics for inequality" width="720" />
-- **Gendered inequalities in housing** — survey analytics; findings informed public and parliamentary debates on housing security and gender-responsive housing assistance policies
-<img src="assets/housing_survey_analytics.png" alt="Survey analytics for inequality" width="720" />
+  <p align="center">
+   <img src="assets/Graduates_outcomes_by_gender.png" alt="Survey analytics for inequality" width="720" />
+</p>
 
+- **Gendered inequalities in housing** — survey analytics; findings informed public and parliamentary debates on housing security and gender-responsive housing assistance policies
+ <p align="center">
+   <img src="assets/housing_survey_analytics.png" alt="Survey analytics for inequality" width="720" />
+</p>
 
 ## 🧪 5. Research Scoping & Design
 - **LSE Coursework** — problem-framing diagrams, changing contexts (e.g. NHS project).
-- <img src="assets/NHS_fishbone_diagram.png" alt="Survey analytics for inequality" width="720" />
+  <p align="center">
+   <img src="assets/NHS_fishbone_diagram.png" alt="Survey analytics for inequality" width="720" />
+</p>
 
 ### 🔭 In progress / exploration
 - **Graduate Outcomes (UK)** — employability & professional growth using GOS (work in progress). 
 - **UK Visa-Sponsor Jobs for Data Talent** — daily scrape
+
 ---
 
 ### 🛠️ Skills
