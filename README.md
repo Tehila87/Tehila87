@@ -59,7 +59,7 @@ KPIs, narrative-ready outputs, and decision support.
     <img src="assets/customer_success_dashboard.png" alt="Customer Success Dashboard" width="720" />
 </p>
 
-- **Graduate Outcomes dashboard design** — built to present key Graduate Outcomes metrics (diversity, unemployment, YoY trends, ethnic/gender differences) through clear visuals and takeaways for decision-makers. *(available on request)*
+- **Graduate Outcomes dashboard design (GOS sample data)** — built to present key Graduate Outcomes metrics (diversity, unemployment, YoY trends, ethnic/gender differences) through clear visuals and takeaways for decision-makers. *(available on request)* 
 
 - **NHS Missed Appointments** — descriptive analytics of drivers & actions (report + deck). *(link coming)*
   <p align="center">
@@ -92,9 +92,6 @@ Statistical work that fed into public / parliamentary conversations.
    <img src="assets/NHS_fishbone_diagram.png" alt="Survey analytics for inequality" width="720" />
 </p>
 
-### 🔭 In progress / exploration
-- **Graduate Outcomes (UK)** — employability & professional growth using GOS (work in progress). 
-- **UK Visa-Sponsor Jobs for Data Talent** — daily scrape
 
 ---
 
