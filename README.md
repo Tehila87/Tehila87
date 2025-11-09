@@ -1,4 +1,4 @@
-<!-- Hero -->
+<img width="1297" height="674" alt="image" src="https://github.com/user-attachments/assets/d98a6214-93e3-499d-a856-6f22ecba306d" /><!-- Hero -->
 <h2 align="center">Tehila Sharabi — Data Analyst & Researcher</h2>
 <p align="center">
   Python • SQL • R • SAS • Tableau | LSE Data Analytics Graduate
@@ -19,23 +19,45 @@
 #### Creative, rigorous and impact-driven data analyst with 6 years’ experience across higher education, the public sector and research organisations. Skilled in analysing large-scale survey and administrative datasets, sourcing financial and macro-economic data (scraping, APIs), and building statistical and machine-learning pipelines (regression, classification, clustering, XGBoost). Proficient in Python, SQL, R, SAS and Tableau. Prioritises robust methodologies, data quality, clear documentation and reproducible workflows. Recent LSE Data Analytics graduate (Distinction). Brings strong transferable skills, including cross-sector partnership building, rich stakeholder engagement, and work in fast-changing, high-stakes environments (including initiating ~10 parliamentary debates and 10+ committee presentations as a think-tank advocate and researcher). Passionate about bridging data science and action.
 ---
 
-### ⭐ Portfolio highlights
-1. **Stock Prices Prediction Pipeline** — event-aware features; Ridge/XGBoost; LOEO & walk-forward validation; sample data for a quick run.  
+### ⭐ Data science skills demonstrated via selected project excerpts
+
+## 🔧 1. Predictive & ML Pipelines
+Event-aware, reproducible modelling for business use.
+- **Stock Prices Prediction Pipeline** — event-aware features; Ridge/XGBoost; LOEO & walk-forward validation; 
   ➜ **Repo:** https://github.com/Tehila87/stock-prices-prediction-pipeline
+- **Customer Loyalty (R & Python)** — MLR + tree model to identify under-rewarded customers and size the bonus pool; segment performance & fairness checks. *(link coming)*
   <p align="center">
   <a href="https://github.com/Tehila87/stock-prices-prediction-pipeline">
-    <img src="assets/pipeline-overview.png" alt="Predictive modelling pipeline: pre-modelling, WFCV & LOEO" width="820">
+    <img src="assets/modelling_pipeline.png" alt="Predictive modelling pipeline: pre-modelling, WFCV & LOEO" width="820">
   </a>
 </p>
 <small>
   <summary><strong> What this shows: </strong></summary>
-> Feature de-meaning/standardisation, event-aware engineering, stability/top-k selection <br>
-> Two paths: Walk-Forward CV (year-round) and LOEO (around-earnings) with Ridge/XGBoost<br>
-> Emphasis on reproducible pipelines and evaluation design
+> Advanced data handling and model design methods:feature de-meaning/standardisation, event-aware engineering, stability/top-k selection <br>
+> Two modelling paths: Walk-Forward CV (year-round) and LOEO (around-earnings) with Ridge/XGBoost<br>
+> Emphasis on reproducible pipelines and clean documentation.<br>
+> LSE instructor feedback
 </small>
 </p>
 
-2. **NHS Missed Appointments** — descriptive analytics of drivers & actions (report + deck). *(link coming)*
+## 🧭 2. Deployment & Actionable Analytics
+From predictive insights to business strategies
+
+- **Targeting under-rewarded customers** — used model outputs to quantify the gap (≈51% of sample) and calculate a bonus pool (346,100 loyalty points).
+
+<img src="assets/deployment_bonus_pool.png" alt="Deployment and adoption" width="720" />
+
+---
+## 📈 3. BI / Dashboards / Stakeholder Reporting / Strategic Recommendations
+KPIs, narrative-ready outputs, and decision support.
+
+- **Customer Success Tableau dashboard** — tracks key Customer Success KPIs (MRR, NRR, upsell/expansion, renewal, new ARR, logo churn, CLV, ARPA) with segment filters and a built-in insights/recommendations panel for decisions.
+
+<img src="assets/customer_success_dashboard.png" alt="Customer Success Dashboard" width="720" />
+
+- **Graduate Outcomes dashboard design** — built to present key Graduate Outcomes metrics (diversity, unemployment, YoY trends, ethnic/gender differences) through clear visuals and takeaways for decision-makers. *(available on request)*
+
+**NHS Missed Appointments** — descriptive analytics of drivers & actions (report + deck). *(link coming)*
   <p align="center">
   <img src="assets/NHS_recommendations.png" alt="NHS missed appointments: trends, shocks, and data-driven recommendations" width="820">
 </p>
@@ -47,8 +69,18 @@
 </small>
 </p>
 
-3. **Customer Loyalty (R & Python)** — MLR + decision tree; segment performance & fairness checks. *(link coming)*
+## 🏛 4. Public Policy & Inequality Analytics (Past Career)
+Statistical work that fed into public / parliamentary conversations.
 
+- **Graduate Outcomes** — linking students to tax records; earnings by field of study and gender.
+<img src="assets/Graduates_outcomes_by_gender.png" alt="Survey analytics for inequality" width="720" />
+- **Gendered inequalities in housing** — survey analytics; findings informed public and parliamentary debates on housing security and gender-responsive housing assistance policies
+<img src="assets/housing_survey_analytics.png" alt="Survey analytics for inequality" width="720" />
+
+
+## 🧪 5. Research Scoping & Design
+- **LSE Coursework** — problem-framing diagrams, changing contexts (e.g. NHS project).
+- <img src="assets/NHS_fishbone_diagram.png" alt="Survey analytics for inequality" width="720" />
 
 ### 🔭 In progress / exploration
 - **Graduate Outcomes (UK)** — employability & professional growth using GOS (work in progress). 
@@ -63,13 +95,17 @@
 - **Teamwork:** contributes innovative ideas, drives forward-thinking initiatives, supports ambitious teammates  
 - **Reflective mindset:** committed to continuous improvement
 
+---
+
 ### 🎓 Education
 - **LSE** — Data Analytics Career Accelerator (Distinction)  
-- **TAU** — B.A. Sociology & Gender - minor in Law (Magna cum laude)
+- **TAU** — B.A. Sociology & Gender, minor in Law (magna cum laude)
+
+---
 
 ### 💼 Experience snapshots
 - Researcher & Policy Advocate (independent think tank) | Data Analyst (Central Bureau of Statistics) | Parliamentary Advisor (Israeli Parliament)
-
+- <img src="assets/experience.png" alt="Survey analytics for inequality" width="720" />
 ---
 
 <sub> Planning relocation to London; open to conversations and collaborations around survey-based analytics, advanced predictive modelling, and demand forecasting.</sub>
