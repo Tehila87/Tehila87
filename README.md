@@ -44,8 +44,10 @@ Event-aware, reproducible modelling for business use.
 From predictive insights to business strategies
 
 - **Targeting under-rewarded customers** — used model outputs to quantify the gap (≈51% of sample) and calculate a bonus pool (346,100 loyalty points).
-
-<img src="assets/deployment_bonus_pool.png" alt="Deployment and adoption" width="720" />
+  <p align="center">
+    <img src="assets/deployment_bonus_pool.png" alt="Deployment and adoption" width="720" />
+  </a>
+</p>
 
 ---
 ## 📈 3. BI / Dashboards / Stakeholder Reporting / Strategic Recommendations
