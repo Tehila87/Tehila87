@@ -1,4 +1,4 @@
-<img width="1297" height="674" alt="image" src="https://github.com/user-attachments/assets/d98a6214-93e3-499d-a856-6f22ecba306d" /><!-- Hero -->
+
 <h2 align="center">Tehila Sharabi — Data Analyst & Researcher</h2>
 <p align="center">
   Python • SQL • R • SAS • Tableau | LSE Data Analytics Graduate
@@ -68,7 +68,7 @@ KPIs, narrative-ready outputs, and decision support.
 > Evidence storytelling & stakeholder-ready communication
 </small>
 </p>
-
+<img width="1297" height="674" alt="image" src="https://github.com/user-attachments/assets/d98a6214-93e3-499d-a856-6f22ecba306d" /><!-- Hero -->
 ## 🏛 4. Public Policy & Inequality Analytics (Past Career)
 Statistical work that fed into public / parliamentary conversations.
 
