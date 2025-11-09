@@ -81,7 +81,7 @@ Statistical work that fed into public / parliamentary conversations.
    <img src="assets/Graduates_outcomes_by_gender.png" alt="Survey analytics for inequality" width="720" />
 </p>
 
-- **Gendered inequalities in housing** — survey analytics; findings informed public and parliamentary debates on housing security and gender-responsive housing assistance policies
+- **Gender inequality in housing** — survey analytics; findings informed public and parliamentary debates on housing security and gender-responsive housing assistance policies
  <p align="center">
    <img src="assets/housing_survey_analytics.png" alt="Survey analytics for inequality" width="720" />
 </p>
