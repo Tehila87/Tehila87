@@ -19,7 +19,7 @@
 #### Creative, rigorous and impact-driven data analyst with 6 years’ experience across higher education, the public sector and research organisations. Skilled in analysing large-scale survey and administrative datasets, sourcing financial and macro-economic data (scraping, APIs), and building statistical and machine-learning pipelines (regression, classification, clustering, XGBoost). Proficient in Python, SQL, R, SAS and Tableau. Prioritises robust methodologies, data quality, clear documentation and reproducible workflows. Recent LSE Data Analytics graduate (Distinction). Brings strong transferable skills, including cross-sector partnership building, rich stakeholder engagement, and work in fast-changing, high-stakes environments (including initiating ~10 parliamentary debates and 10+ committee presentations as a think-tank advocate and researcher). Passionate about bridging data science and action.
 ---
 
-### ⭐ Data science skills demonstrated via selected project excerpts
+### ⭐ Data science skills in practice - selected project excerpts
 
 ## 🔧 1. Forecasting & ML Pipelines:
 Building reproducible modelling pipelines for prediction and evaluation.
