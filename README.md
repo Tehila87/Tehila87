@@ -33,7 +33,7 @@ Building reproducible modelling pipelines for prediction and evaluation.
 </p>
 <small>
   <summary><strong> What this shows: </strong></summary>
-> Advanced data handling and model design methods:feature de-meaning/standardisation, event-aware engineering, stability/top-k selection <br>
+> Advanced data handling and model design methods: feature de-meaning/standardisation, event-aware engineering, stability/top-k selection <br>
 > Two modelling paths: Walk-Forward CV (year-round) and LOEO (around-earnings) with Ridge/XGBoost<br>
 > Emphasis on reproducible pipelines and clean documentation.<br>
 > LSE instructor feedback
@@ -88,9 +88,9 @@ Analyzing complex administrative datasets to support evidence-based, equality-fo
 
 ---
 ## 🏛 6. Survey Analytics for Inequality Studies
-Applying quantitative approaches that inform evidence-based policy and reform design
+Applying quantitative approaches that inform evidence-based policy and reform design.
 
-- **Gender Inequality in Housing** — survey analytics; findings informed public and parliamentary debates on housing security and gender-responsive housing assistance policies
+- **Gender Inequality in Housing** — survey analytics; findings informed public and parliamentary debates on housing security and gender-responsive housing assistance policies.
  <p align="center">
    <img src="assets/housing_survey_analytics.png" alt="Survey analytics for inequality" width="720" />
 </p>
@@ -104,10 +104,12 @@ Applying quantitative approaches that inform evidence-based policy and reform de
 
 ---
 ## 🧾 8. Commitment to Data Quality & Documentation of Risks and Limitations
-Ensuring data quality and verifying data accuracy through structured methods and best practices, including cross-validation; acknowledging and documenting risks and limitations; and applying critical thinking to identify data gaps or missing categories that may affect data integrity and interpretation.
+Ensuring data quality and verifying data accuracy through structured methods and best practices, including:
+  (A) cross-validation,
+  (B) acknowledging and documenting risks and limitations, and
+  (C) applying critical thinking to identify data gaps or missing categories that may affect integrity and interpretation.
 
 ---
-
 ### 🛠️ Skills
 - **Technical:** Python, SQL, R, SAS, scikit-learn, XGBoost, pandas, matplotlib, Tableau  
 - **Upskilling:** ML, forecasting & reproducible pipelines  
@@ -117,7 +119,6 @@ Ensuring data quality and verifying data accuracy through structured methods and
 - **Reflective mindset:** committed to continuous improvement
 
 ---
-
 ### 🎓 Education
 - **LSE** — Data Analytics Career Accelerator (Distinction)  
 - **TAU** — B.A. Sociology & Gender, minor in Law (magna cum laude)
