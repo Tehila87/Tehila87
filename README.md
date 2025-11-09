@@ -90,7 +90,7 @@ Analyzing complex administrative datasets to support evidence-based, equality-fo
 ## 🏛 6. Survey Analytics for Inequality Studies
 Applying quantitative approaches that inform evidence-based policy and reform design
 
-- **Gender inequality in housing** — survey analytics; findings informed public and parliamentary debates on housing security and gender-responsive housing assistance policies
+- **Gender Inequality in Housing** — survey analytics; findings informed public and parliamentary debates on housing security and gender-responsive housing assistance policies
  <p align="center">
    <img src="assets/housing_survey_analytics.png" alt="Survey analytics for inequality" width="720" />
 </p>
